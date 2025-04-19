@@ -13,7 +13,7 @@ Goals:
 
 Insights:  
 - Lowest Sales: February (~59,751) → Possible post-holiday effect.
-- Highest Sales: November (~307,649) → May be affected by major shopping events (Year End Sales).
+- Highest Sales: November (~307,649) → Maybe affected by major shopping events (Year End Sales).
 - Significant spike in March, then stable trend until August.
 - Increased from September, peaked in November, then dropped slightly in December.
 - Highest Sales: Canon imageCLASS 2200 Advanced Copier (~61,599)
