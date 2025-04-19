@@ -28,7 +28,7 @@ Insights:
 
 
 Conclusion:  
-- XGBoost and Random Forest are the best models for predicting the number of sales because they give very accurate results with a small error!
+- XGBoost and Random Forest are the best models for predicting the product quantity sold because they give very accurate results with a small error!
 
 If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on LinkedIn and Email : mfkriazh57@gmail.com and http://www.linkedin.com/in/muhammad-fakhri-azhar
 
