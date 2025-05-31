@@ -1,6 +1,4 @@
-# portfolio-project-3
-## E-Commerce Product Quantity Sold Prediction
-
+# E-Commerce Product Quantity Sold Prediction
 
 In e-commerce, understanding seasonal sales trends and best-selling products is critical to business strategy. However, companies often struggle with predicting sales, determining factors that influence sales (discounts, product categories, locations), and optimizing stock and marketing. Complex sales data requires in-depth analysis to identify buying patterns, determine high-demand products, and devise more effective pricing strategies.
 
